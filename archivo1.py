@@ -3,3 +3,6 @@ def primerafuncion():
 
 def segundafuncion():
     print("Prueba")
+
+def funcionsoloenRamaprueba():
+    print("ok")
