@@ -1,4 +1,5 @@
 print("vacio")
 
 def funcionModificar():
-    pass
+    suma=4+5
+    print(suma)
